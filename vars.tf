@@ -42,3 +42,7 @@ variable "vm_folder" {
 variable "vm_network" {
   description = "VM Network"
 }
+
+variable "vm_disksize" {
+  description = "VM DiskSize"
+}
